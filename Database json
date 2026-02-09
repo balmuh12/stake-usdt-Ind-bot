@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "user_id": 12345678,
+      "name": "Rahmat",
+      "package": "Basic",
+      "deposit": 100000,
+      "duration": 30,
+      "profit_per_day": 10000,
+      "status": "pending",
+      "days_completed": 0
+    }
+  ]
+}
