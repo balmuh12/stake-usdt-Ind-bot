@@ -1,0 +1,9 @@
+stake-usdt-sg-bot/
+│
+├─ bot.py           # Main bot
+├─ handlers.py      # Semua menu callback + admin commands
+├─ database.py      # Simpan user + transaksi
+├─ config.py        # Konfigurasi umum (paket & admin)
+├─ menu.json        # Deskripsi menu / teks
+├─ requirements.txt
+└─ .env             # BOT_TOKEN
